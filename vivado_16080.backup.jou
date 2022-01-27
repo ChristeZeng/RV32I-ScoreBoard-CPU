@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Dec 16 18:38:07 2021
+# Process ID: 16080
+# Current directory: D:/CS/architecture/Lab6/Exp6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent440 D:\CS\architecture\Lab6\Exp6\Exp6.xpr
+# Log file: D:/CS/architecture/Lab6/Exp6/vivado.log
+# Journal file: D:/CS/architecture/Lab6/Exp6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/CS/architecture/Lab6/Exp6/Exp6.xpr
+update_compile_order -fileset sources_1

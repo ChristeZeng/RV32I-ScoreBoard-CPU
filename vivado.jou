@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Dec 22 19:39:15 2021
+# Process ID: 19968
+# Current directory: D:/CA/Lab6/Exp6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25784 D:\CA\Lab6\Exp6\Exp6.xpr
+# Log file: D:/CA/Lab6/Exp6/vivado.log
+# Journal file: D:/CA/Lab6/Exp6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/CA/Lab6/Exp6/Exp6.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config D:/CA/Lab6/Exp6/code/sim/sim_top_behav.wcfg
+source sim_top.tcl
+run 100 us
+close_sim
